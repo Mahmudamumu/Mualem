@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115693469862",
+    "project_id": "catty-quiz",
+    "storage_bucket": "catty-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115693469862:android:a06042f485a0dacc687467",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115693469862-spfmipd1fa9o0m8jog7eomt34mjg46l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmn1XuwyIDEPopBfbZ5Be0SCjaNXim3Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115693469862-spfmipd1fa9o0m8jog7eomt34mjg46l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
